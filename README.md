@@ -2,8 +2,6 @@
 Beginner dev 🚀 | Web • Python • AI/ML | Learning by building projects and sharing my journey.
 # 💫 About Me:
 I love building things—especially<br>🌐 websites,<br>🐍 Python projects, and<br>🚀 any idea that feels interesting enough to turn into code.<br>I’m currently exploring:<br><br>Frontend & backend web development<br><br>Python for automation and projects<br><br>AI / ML basics as part of my B.Tech journey<br><br>Creating and sharing study materials & notes to learn better<br><br>This GitHub is my learning playground 🧪<br>You’ll find:<br><br>Beginner-friendly projects<br><br>Practice code & experiments<br><br>B.Tech study resources (AI, ML, CS fundamentals)<br><br>Projects I build just because I felt like it.
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashsamanta467@gmail.com) 
 
