@@ -2,9 +2,6 @@
 # imashu-del
 Beginner dev 🚀 | Web • Python • AI/ML | Learning by building projects and sharing my journey.
 # 💫 About Me:
-I love building things—especially<br>🌐 websites,<br>🐍 Python projects, and<br>🚀 any idea that feels interesting enough to turn into code.<br>I’m currently exploring:<br><br>Frontend & backend web development<br><br>Python for automation and projects<br><br>AI / ML basics as part of my B.Tech journey<br><br>Creating and sharing study materials & notes to learn better<br><br>This GitHub is my learning playground 🧪<br>You’ll find:<br><br>Beginner-friendly projects<br><br>Practice code & experiments<br><br>B.Tech study resources (AI, ML, CS fundamentals)<br><br>Projects I build just because I felt like it.
-=======
-# 💫 About Me:
 Hey👋 there I'm Ashu<br>I love building things—especially<br>🌐 websites,<br>🐍 Python projects, and<br>🚀 any idea that feels interesting enough to turn into code.<br>I’m currently exploring:<br>Frontend & backend web development<br>Python for automation and projects<br>AI / ML basics as part of my B.Tech journey<br>Creating and sharing study materials & notes to learn better<br>This GitHub is my learning playground 🧪<br>You’ll find:<br>Beginner-friendly projects<br>Practice code & experiments<br>B.Tech study resources (AI, ML, CS fundamentals)<br>Projects I build just because I felt like it<br>I believe in learning by building, breaking things, and improving step by step.<br>Still a beginner—but consistently leveling up 📈
 >>>>>>> a6dd26138fd931c77b9048ad234dffb6a87a032d
 
